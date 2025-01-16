@@ -1,0 +1,7 @@
+C:\Users\7\source\repos\exemplobreak\exemplobreak\bin\Debug\exemplobreak.exe.config
+C:\Users\7\source\repos\exemplobreak\exemplobreak\bin\Debug\exemplobreak.exe
+C:\Users\7\source\repos\exemplobreak\exemplobreak\bin\Debug\exemplobreak.pdb
+C:\Users\7\source\repos\exemplobreak\exemplobreak\obj\Debug\exemplobreak.csproj.AssemblyReference.cache
+C:\Users\7\source\repos\exemplobreak\exemplobreak\obj\Debug\exemplobreak.csproj.CoreCompileInputs.cache
+C:\Users\7\source\repos\exemplobreak\exemplobreak\obj\Debug\exemplobreak.exe
+C:\Users\7\source\repos\exemplobreak\exemplobreak\obj\Debug\exemplobreak.pdb

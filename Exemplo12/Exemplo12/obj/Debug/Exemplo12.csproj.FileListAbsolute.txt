@@ -1,0 +1,7 @@
+C:\Users\7\source\repos\Exemplo12\Exemplo12\bin\Debug\Exemplo12.exe.config
+C:\Users\7\source\repos\Exemplo12\Exemplo12\bin\Debug\Exemplo12.exe
+C:\Users\7\source\repos\Exemplo12\Exemplo12\bin\Debug\Exemplo12.pdb
+C:\Users\7\source\repos\Exemplo12\Exemplo12\obj\Debug\Exemplo12.csproj.AssemblyReference.cache
+C:\Users\7\source\repos\Exemplo12\Exemplo12\obj\Debug\Exemplo12.csproj.CoreCompileInputs.cache
+C:\Users\7\source\repos\Exemplo12\Exemplo12\obj\Debug\Exemplo12.exe
+C:\Users\7\source\repos\Exemplo12\Exemplo12\obj\Debug\Exemplo12.pdb
