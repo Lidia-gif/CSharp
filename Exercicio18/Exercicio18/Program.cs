@@ -15,7 +15,7 @@ public class Exercicio17
         Console.WriteLine("As cidades e as suas populações:");
         for (int contador = 0; contador < cidades.Length; contador++)
         {
-            Console.WriteLine(cidades[contador] + " - " + habitantes[contador]+" habitantes ");
+            Console.WriteLine($"{cidades[contador]} -  {habitantes[contador]} habitantes ");
         }
 
 
