@@ -41,11 +41,11 @@ public class Exercicio19
                 Console.WriteLine("Pesquisar contacto: ");
                 String pesquisarcontacto = Console.ReadLine();
                
-                numero.ContainsKey(pesquisarcontacto);
-                Console.WriteLine(pesquisarcontacto.Contains(pesquisarcontacto));
-                break;
+              
+               
+                
 
-                if (pesquisarcontacto.Contains("pesquisarcontacto"))
+                if (numero.ContainsKey(pesquisarcontacto))
                 {
                     Console.WriteLine("Então o contacto esta correto");
                 }
@@ -54,6 +54,7 @@ public class Exercicio19
                 {
                     Console.WriteLine("O contacto esta errado ");
                 }
+                break;
         }
         
             
